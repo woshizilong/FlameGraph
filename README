@@ -1,5 +1,7 @@
 Flame Graphs visualize profiled code-paths.
 
+Linux性能分析工具
+
 Website: http://www.brendangregg.com/flamegraphs.html
 
 CPU profiling using DTrace, perf_events, SystemTap, or ktap: http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
